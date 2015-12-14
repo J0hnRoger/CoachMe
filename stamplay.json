@@ -1,0 +1,10 @@
+{
+  "appId": "coachcoach",
+  "apiKey": "6732b3ec6c749e985e8ba2928f6832e2e24f28906396a09a2d1f15756694d446",
+  "public": "./src/",
+  "ignore": [
+    "stamplay.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
